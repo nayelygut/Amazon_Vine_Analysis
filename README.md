@@ -8,11 +8,11 @@ On this project I analyzed amazon reviews for pet products to see if there is a 
 
 ![](paid_vine.png)
 
-- Of the paid reviews, 65 had a five-star rating which is 38% of the total paid reviews.
+- Of the paid reviews, 65 had a five-star rating which is 38% of the total paid reviews as shown on table above.
 
 ![](unpaid_vine.png)
 
-- Of the unpaid reviews, 20,612 had a five-star review, which amounts to 55% of total unpaid reviews.
+- Of the unpaid reviews, 20,612 had a five-star review, which amounts to 54% of total unpaid reviews.
 
 ## Summary
 
